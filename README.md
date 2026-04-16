@@ -1,59 +1,16 @@
-# Hi, I'm Huy 👋
+<h1 align="center">Hi 👋, I'm Huy</h1>
+<h3 align="center">Backend developer focused on scalable systems and distributed architectures</h3>
 
-I'm a backend developer focusing on building scalable systems and understanding how they behave under real-world load.
+- 🔭 I’m currently working on [Sentimeta — AI-powered Social Network System](https://github.com/LeVanHuy84/SE121-microservices.git)
 
----
+- 💬 Ask me about **Node.js, NestJS, Kafka, Redis, concurrency, system design**
 
-## 🚀 About Me
+- 📫 How to reach me **huyle842005@gmail.com**
 
-- 🎓 IT student at University of Information Technology (VNU-HCM) — GPA: 9.28/10  
-- ⚙️ Interested in **distributed systems, microservices, and backend architecture**  
-- 🧠 I enjoy solving problems related to **concurrency, consistency, and system performance**  
-- 🛠️ Currently building and experimenting with backend systems under load  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://linkedin.com/in/huy-lê-955532328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/huy-lê-955532328" height="30" width="40" /></a>
+</p>
 
----
-
-## 🧩 What I Work With
-
-- **Backend:** Node.js, NestJS  
-- **Databases:** PostgreSQL, Redis, MongoDB  
-- **Messaging:** Kafka, RabbitMQ  
-- **DevOps:** Docker, GitHub Actions, Terraform  
-- **Concepts:** Microservices, System Design, Concurrency, Event-driven Architecture  
-
----
-
-## 📌 Selected Projects
-
-### 🎬 Online Movie Ticket Booking System
-- Built real-time seat booking system with **WebSocket + Redis**
-- Solved **concurrent booking problem** using distributed locking
-- Load tested system (~160 req/s, P95 < 1s)
-
----
-
-### 🌐 AI-powered Social Network
-- Designed **feed ranking system** using multiple signals
-- Built **event-driven pipeline** with Kafka
-- Implemented real-time chat and online presence
-
----
-
-### 🚗 UIT-Go Ride-Hailing System
-- Designed **microservices architecture** (Auth, User, Trip, Driver)
-- Implemented **driver matching** using Redis Geo
-- Performed **load testing (20 → 100 RPS)** with p95 < 400ms
-- Analyzed system bottlenecks under constrained resources
-
----
-
-## 📫 Contact
-
-- Email: huy.le842005@gmail.com  
-- LinkedIn: www.linkedin.com/in/huy-lê-955532328
-
----
-
-## ⚡ Fun fact
-
-I like building systems not just to make them work, but to see how they break under pressure.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
