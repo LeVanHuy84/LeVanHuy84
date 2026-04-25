@@ -1,67 +1,18 @@
-<h1 align="center">Hi 👋, I'm Huy</h1>
+# 💫 About Me:
+🔭 I’m currently working on backend systems and microservices architectures, while building fullstack web & mobile apps using NestJS, Next.js, and React Native<br><br>👯 I’m looking to collaborate on backend-heavy projects, distributed systems, and AI-driven applications<br><br>🤝 I’m looking for help with advanced system design, scalability, and performance optimization in distributed environments<br><br>🌱 I’m currently learning more about event-driven architecture, microservices at scale, and production-ready system design<br><br>💬 Ask me about backend architecture, NestJS, microservices, Kafka, RabbitMQ, Redis, REST APIs, and real-time systems<br><br>⚡ Fun fact: I’m more interested in how systems handle scale and concurrency than how they look
 
-<h3 align="center">
-Backend developer focused on scalable systems and distributed architectures
-</h3>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/huy-lê-955532328) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:huyle842005@gmail.com) 
 
-### 🚀 About Me
-
-- 🔭 I’m currently working on  
-  **[Sentimeta — AI-powered Social Network System](https://github.com/LeVanHuy84/SE121-microservices.git)**  
-
-- 💬 Ask me about  
-  **Node.js, NestJS, Kafka, Redis, concurrency, system design**
-
-- 📫 Reach me at  
-  **huyle842005@gmail.com**
-
-- ⚡ Fun fact  
-  I like building systems not just to make them work, but to understand how they break under load.
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=LeVanHuy84&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=LeVanHuy84&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=LeVanHuy84&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=LeVanHuy84&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🤝 Connect with me
-
-<p align="left">
-<a href="https://linkedin.com/in/huy-lê-955532328" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-</p>
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-<a href="https://nodejs.org" style="display:inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
-<a href="https://nestjs.com/" style="display:inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="40"/></a>
-<a href="https://kafka.apache.org/" style="display:inline-block;"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40"/></a>
-<a href="https://redis.io" style="display:inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/></a>
-<a href="https://www.postgresql.org" style="display:inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a>
-<a href="https://www.typescriptlang.org/" style="display:inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></a>
-<a href="https://www.docker.com/" style="display:inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
-<a href="https://git-scm.com/" style="display:inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-</p>
-
----
-
-### 📌 Highlight Projects
-
-#### 🎬 Movie Ticket Booking System
-- Real-time seat booking with **WebSocket + Redis**
-- Solved **concurrency issues** using distributed locking
-- Load tested system (~160 req/s, P95 < 1s)
-
-#### 🌐 Sentimeta (AI Social Network - Microservice)
-- Built **event-driven system** with Kafka
-- Designed **feed ranking system**
-- Integrated AI models for sentiment & content understanding
-
-#### 🚗 UIT-Go Ride-Hailing System
-- Microservices architecture (Auth, User, Trip, Driver)
-- **Driver matching** using Redis Geo
-- Load testing (20 → 100 RPS, p95 < 400ms)
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
